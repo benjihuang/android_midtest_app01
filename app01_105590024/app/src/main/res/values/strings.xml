@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">app01_105590024</string>
+    <string name="score">成績:</string>
+    <string name="change">成績轉換</string>
+    <string name="result">等第:</string>
+    <string name="score2">請輸入整數成績</string>
+</resources>
